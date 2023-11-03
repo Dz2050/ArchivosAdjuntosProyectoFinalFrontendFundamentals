@@ -1,21 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+
+
 
 body{
-    font-size: 45.0px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
     image-resolution: 1.6px;
     line-height: 2;
 }
 h1{
+    text-align: center;
     font-size: 5rem;
 }
 h2{
-    font-size: 4rem;
+    text-align: center;
+    font-size: 5rem;
 }
 h3{
-    font-size: 4rem;
+    font-size: 5rem;
 }
-h1{
-    image-resolution: 25rem;
+
+
+.caja7{
+    border: 2px solid rgb(70, 69, 69);
+    background-color: rgb(51, 162, 206);
+    color: black;
+    font-family:url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+    font-weight: bold;
+    font-size: medium;
+    width: 400px;
+    height: 350px;
+    line-height: 30px;
+    text-align: center;
+    margin: 5px;
+}
+.caja8{
+    border: 2px solid rgb(70, 69, 69);
+    background-color: rgb(51, 162, 206);
+    color: black;
+    font-family:url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+    font-weight: bold;
+    font: size 3px;
+    width: 400px;
+    height: 350px;
+    line-height: 30px;
+    text-align: center;
+    margin: 5px;
 }
 
 .caja1{
