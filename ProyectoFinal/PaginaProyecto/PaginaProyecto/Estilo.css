@@ -106,16 +106,3 @@ h1{
     width:100%;
     margin: 0 auto;
 }
-.caja7{
-    border: 2px solid rgb(70, 69, 69);
-    background-color: skyblue;
-    color: black;
-    font-family:'Courier New', Courier, monospace;
-    font-weight: bold;
-    font-size: medium;
-    width: 400px;
-    height: 350px;
-    line-height: 30px;
-    text-align: center;
-    margin: 5px;
-}
